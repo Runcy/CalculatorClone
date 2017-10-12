@@ -1,9 +1,6 @@
-//Name: Francisco Lynn
-//ID: FXL161830
-//Course: CS2336
-//Professor: Khan
-//Date: 7/16/17
-//Description: Driver Class for Programmer Calculator
+//Author: 	Francisco Lynn
+//Date: 	7/16/17
+//Description:  This program is a clone of the Windows 9 Programmer Calculator
 
 import javax.swing.JFrame;
 
