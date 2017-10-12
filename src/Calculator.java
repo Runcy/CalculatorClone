@@ -1,9 +1,6 @@
-//Name: Francisco Lynn
-//ID: FXL161830
-//Course: CS2336
-//Professor: Khan
-//Date: 7/16/17
-//Description: Calculator Class
+//Author: 	Francisco Lynn
+//Date: 	7/16/17
+//Description: 	Calculator Class
 
 import java.awt.*;
 import java.awt.datatransfer.*;
