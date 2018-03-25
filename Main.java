@@ -1,10 +1,15 @@
-//Author: 	Francisco Lynn
-//Date: 	7/16/17
-//Description:  This program is a clone of the Windows 9 Programmer Calculator
+/**
+   Windows 8 Programmer Calculator Clone
+   
+   Purpose: Clone of the Windows 8 Programmer Calculator.
+
+    @author Franco Lynn
+    @version 1.00 7/03/2017
+*/
 
 import javax.swing.JFrame;
 
-public class CalcTest {
+public class Main {
 
 	public static void main(String[] args) {
 
